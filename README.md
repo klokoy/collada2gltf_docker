@@ -1,2 +1,2 @@
-# collada2gltf_docker
+# collada2gltf
 automated docker build repo for collada2gltf
